@@ -1,8 +1,5 @@
-orchard-groupdocs-viewer
-========================
-
 GroupDocs Viewer plugin for Orchard
-
+========================
 
 ###Installation
  1. Install Orchard CMS web site (http://docs.orchardproject.net/Documentation/Installing-Orchard) where plugin will be used.
@@ -15,4 +12,4 @@ GroupDocs Viewer plugin for Orchard
 * [Download Orchard Viewer plugin source code here](https://github.com/groupdocs/orchard-groupdocs-viewer-source)
 
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+#### Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
